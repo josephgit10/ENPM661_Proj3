@@ -4,6 +4,7 @@ The zip file contains a README file, source code and animation video.
 
 To run the code:
 Use any python IDE. Install moviepy using the command !pip install moviepy. Also instal FFmpeg if not present on your system already and add /bin to PATH variable in system environment variables.
+The code after running will save a .mp4 and a .gif file.
 
 Inputs:
 The code will ask for Object clearance, Robot radius, Step size, Start node coordinates and orientation and Goal node coordinates and orientation.
